@@ -82,5 +82,3 @@ watchman watch-del-all
 npm start --reset-cache
 rm -rf /tmp/metro-*
 ```
-
-https://stackoverflow.com/questions/54215731/mongoose-aggregate-lookup-how-to-filter-by-specific-id
